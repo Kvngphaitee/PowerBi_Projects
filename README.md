@@ -3,7 +3,7 @@ These projects were executed using PowerBi
 # 1. Apple iPhone XR Review Analysis 
  ## Overview
  This is a text and sentiment analysis project using customer reviews of the Apple iPhone XR. The goal was to understand whether customers are satisfied or dissatisfied with the product and uncover what drives their feedback.
- ### -[CLICK TO OPEN DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiOTdmZmIwNzItZjRhNy00ODVkLTgzYmUtNGRlZWE2M2JmMTZkIiwidCI6IjE2ZDUxMTA2LWZkYjctNDNkYi1iN2Y3LWRkNGM5ODYyMDNjNyJ9)
+ ### -[CLICK TO OPEN DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNjg3Yjc1M2ItNWI2YS00ODViLTg0MGQtN2I0YmVjODEwYWZjIiwidCI6IjE2ZDUxMTA2LWZkYjctNDNkYi1iN2Y3LWRkNGM5ODYyMDNjNyJ9)
 
 # 2. Messy HR DATA
 ## Overview
